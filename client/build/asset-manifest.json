@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd27a3c6.css",
+    "main.js": "/static/js/main.0086104e.js",
+    "static/media/lightbanner.png": "/static/media/lightbanner.264dee71eedcf4da0faa.png",
+    "static/media/darkbanner.png": "/static/media/darkbanner.5dbbb82162ff1157112e.png",
+    "static/media/resume.pdf": "/static/media/resume.9d47d61982cc1a0b894f.pdf",
+    "static/media/darkbackground.png": "/static/media/darkbackground.634c387fcc6b9dbe73b1.png",
+    "static/media/lightbackground.png": "/static/media/lightbackground.df21ecbf5fbcf8c041be.png",
+    "static/media/halimhead.JPG": "/static/media/halimhead.8077b8654d83681a0a8e.JPG",
+    "index.html": "/index.html",
+    "main.fd27a3c6.css.map": "/static/css/main.fd27a3c6.css.map",
+    "main.0086104e.js.map": "/static/js/main.0086104e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd27a3c6.css",
+    "static/js/main.0086104e.js"
+  ]
+}
