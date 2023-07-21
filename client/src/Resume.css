@@ -1,0 +1,13 @@
+.resume {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.resume.dark-mode {
+    /* Add your dark mode styles here */
+    /* For example, you can change the background color, text color, etc. */
+    background-color: #121212;
+    color: #ffffff;
+}
