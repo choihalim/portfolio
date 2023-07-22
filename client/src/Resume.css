@@ -7,8 +7,8 @@
 
 .react-pdf__Page__canvas {
     margin: 0 auto;
-    width: 50% !important;
-    height: 50% !important;
+    width: 20% !important;
+    height: 30% !important;
 }
 
 .resume.dark-mode {
