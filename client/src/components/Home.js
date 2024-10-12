@@ -26,7 +26,7 @@ function Home({ darkMode }) {
                         <div className='content'>
                             <h2 style={{ color: darkMode ? "#000000" : "#FFFFFF" }}>Hello World!</h2>
                             <h3 style={{ color: darkMode ? "#000000" : "#FFFFFF" }}>My name is Halim, I'm a Full Stack Web Developer</h3>
-                            <Button variant={darkMode ? 'dark' : 'light'} href="/projects">Check out my Portfolio</Button>
+                            <Button variant={darkMode ? 'dark' : 'light'} href="/portfolio">Check out my Portfolio</Button>
                         </div>
                     </div>
                 </div>
